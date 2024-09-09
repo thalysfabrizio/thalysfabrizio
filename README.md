@@ -1,4 +1,4 @@
-  <h2><img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" width="380" height="500" title="code" align="right" >
+  <h2><img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" width="460" height="500" title="code" align="right" >
   
   <h2 align="center">Hello World, I'm Thalys.
   <p align="center">
