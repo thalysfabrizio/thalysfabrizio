@@ -6,8 +6,8 @@
   </p>
 <p align="center">
   <h4 align="center">Currently working on back-end systems,<br />such as projects using <a href="https://dotnet.microsoft.com/"><img
-      src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4&logo=.net&logoColor=61DAFB" width="30"
-      alt="dotnet" /></a> lib.</h4>
+       src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100"
+      alt="React Native" /></a> lib.</h4>
   <h5 align="center">Constant learner, always trying to improve!<br /><br /></h5>
 
   <p align="center">
