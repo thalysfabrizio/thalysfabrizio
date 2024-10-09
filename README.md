@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/thalysfabrizio" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" /></a>
   </p>
 <p align="center">
-  <h4 align="center">Currently working on back-end systems,<br />such as projects using <a href="https://dotnet.microsoft.com/"><img
+  <h4 align="center">Currently working on hybrid mobile tecnologies,<br />such as projects using <a href="https://dotnet.microsoft.com/"><img
        src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100"
       alt="React Native" /></a> lib.</h4>
   <h5 align="center">Constant learner, always trying to improve!<br /><br /></h5>
